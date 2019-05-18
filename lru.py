@@ -1,7 +1,7 @@
 import collections
 import unittest
 
-
+#change`
 def log_decorate(func):
     def wrapper(*args):
         func_name = func.__name__
